@@ -1,3 +1,5 @@
+LAB-01
+
 1. In which file are the `<html>` and `<body>` tags?
 app/layout.tsx
 
@@ -29,3 +31,6 @@ It contains global style, imported in app/layout.tsx
 
 10. What is `AGENTS.md`, and does your app need it to run?
 AGENTS.md provides instructions and context for AI coding agents working on the project. The app does not need it to run; it is guidance for development tools.
+
+
+LAB-02
