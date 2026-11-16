@@ -18,6 +18,24 @@
 
 Entities (2 to 4), their main fields, and how they are related:
 
+1. Team
+- id
+- name
+- slug
+- description
+- logo
+- city
+
+2. Match
+
+- id
+- date
+- homeTeamId
+- awayTeamId
+- homeScore
+- awayScore
+- status (scheduled, ongoing, or completed)
+
 ## Write actions
 
 What users can create, update or delete:
