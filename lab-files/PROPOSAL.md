@@ -7,7 +7,7 @@
 
 ## Pages
 
-| URL | Content | Dynamic segment? | Rendering | URL | Content | Dynamic segment? | Rendering strategy and why |
+| URL | Content | Dynamic segment? | Rendering strategy and why |
 |---|---|---|---|
 | `/` | Homepage with recent results and upcoming matches. | No | Static rendering, since the content is mostly general information. |
 | `/league` | League overview with teams, standings, and matches. | No | Dynamic rendering, so the latest results and standings are displayed. |
