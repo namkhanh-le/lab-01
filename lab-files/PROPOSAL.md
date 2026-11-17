@@ -1,6 +1,6 @@
 # Project proposal
 
-* Name: MatchPoint
+* Name: Nam Khanh LE
 * Project title: Sports League Tracker
 * Pitch (one sentence): A web application that lets users follow a sports league, explore its teams and match schedules, and keep track of match results.
 * Target users:Sports fans who want a simple way to follow a league, check team information, and view match results.
